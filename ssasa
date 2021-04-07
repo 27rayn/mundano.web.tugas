@@ -1,0 +1,21 @@
+ <div class="card" style="top: 24px;">
+              <img src="Images/SS2102.jpg" class="card-img-top" alt="SS2102">
+              <div class="card-body">
+                <p class="card-text" style="font-family: Poppins; font-style:normal; font-size: 16px;"
+                >White SS21 Collection that fits your imagination.</p>
+              </div>
+            </div>
+            <div class="card" style="top: 24px;">
+              <img src="Images/SS2103.jpg" class="card-img-top" alt="SS2103">
+              <div class="card-body">
+                <p class="card-text" style="font-family: Poppins; font-style:normal; font-size: 16px;"
+                >White SS21 Collection that fits your imagination.</p>
+              </div>
+            </div>
+            <div class="card" style="top: 24px;">
+              <img src="Images/Black SS21.jpg" class="card-img-top" alt="Black SS21">
+              <div class="card-body">
+                <p class="card-text" style="font-family: Poppins; font-style:normal; font-size: 16px;"
+                >White SS21 Collection that fits your imagination.</p>
+              </div>
+            </div>
