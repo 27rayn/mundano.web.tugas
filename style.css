@@ -1,6 +1,8 @@
-@font-face {
-  font-family: Casta;
-  src: url(fonts/Casta-Thin.otf);
+#sscollection21 {
+  @font-face {
+    font-family: Casta;
+    src: url(fonts/Casta-Thin.otf);
+  }
 }
 .p {
   font-family: Poppins;
