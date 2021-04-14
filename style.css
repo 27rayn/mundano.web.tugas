@@ -1,11 +1,15 @@
 @font-face {
-  font-family: Casta, Poppins, NewYork, Archia;
+  font-family: Casta;
   src: url(fonts/Casta-Thin.otf);
-  src: url(fonts/Casta-ThinSlanted.otf);
+}
+
+@font-face {
+  font-family: Poppins;
   src: url(fonts/Poppins-Medium.ttf);
-  src: url(fonts/Poppins-Regular.ttf);
-  src: url(fonts/Poppins-Light.ttf);
-  src: url(fonts/NewYork.otf);
+}
+
+@font-face {
+  font-family: Archia;
   src: url(fonts/archia-regular-webfont.woff);
 }
 
