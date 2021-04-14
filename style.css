@@ -25,8 +25,8 @@ p {
 /* Carousel base class */
 .carousel {
   margin: auto;
-  min-height: 719px;
-  min-width: none;
+  max-height: 719px;
+  width: auto;
 }
 .carousel-caption {
   bottom: 3rem;
@@ -40,5 +40,5 @@ p {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: none;
+  width: auto;
 }
