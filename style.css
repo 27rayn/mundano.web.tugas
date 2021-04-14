@@ -25,8 +25,8 @@ p {
 /* Carousel base class */
 .carousel {
   margin: auto;
-  height: auto;
-  width: auto;
+  min-height: 719px;
+  min-width: none;
 }
 .carousel-caption {
   bottom: 3rem;
@@ -35,11 +35,10 @@ p {
 
 .carousel-item {
   height: 719px;
-  width: 540px;
 }
 .carousel-item > img {
   position: absolute;
   top: 0;
   left: 0;
-  min-width: auto;
+  min-width: none;
 }
