@@ -8,11 +8,6 @@
   src: url(fonts/Poppins-Medium.ttf);
 }
 
-@font-face {
-  font-family: Archia;
-  src: url(fonts/archia-regular-webfont.woff);
-}
-
 #sscollection {
   padding-top: 6rem;
 }
@@ -26,7 +21,7 @@ h2 {
 p {
   letter-spacing: 1px;
 }
-/* Carousel base class */
+
 .carousel {
   margin: auto;
   max-height: 719px;
