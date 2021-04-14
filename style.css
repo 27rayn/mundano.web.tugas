@@ -1,8 +1,46 @@
 @font-face {
-  font-family: Casta, Poppins;
+  font-family: Casta, Poppins, NewYork, Archia;
   src: url(fonts/Casta-Thin.otf);
   src: url(fonts/Casta-ThinSlanted.otf);
   src: url(fonts/Poppins-Medium.ttf);
   src: url(fonts/Poppins-Regular.ttf);
   src: url(fonts/Poppins-Light.ttf);
+  src: url(fonts/NewYork.otf);
+  src: url(fonts/archia-regular-webfont.woff);
+}
+
+#sscollection {
+  padding-top: 6rem;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
+h2 {
+  letter-spacing: 3px;
+}
+p {
+  letter-spacing: 1px;
+}
+/* Carousel base class */
+.carousel {
+  margin: auto;
+  height: 719px;
+  width: 540px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 719px;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
 }
