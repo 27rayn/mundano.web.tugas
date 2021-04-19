@@ -1,7 +1,6 @@
 @font-face {
-  font-family: Casta, Archia, Poppins;
+  font-family: Casta, Poppins;
   src: url(fonts/Casta-Thin.otf);
-  src: url(fonts/archia-regular-webfont.woff);
   src: url(fonts/Poppins-Medium.ttf);
 }
 
