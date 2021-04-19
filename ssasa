@@ -19,3 +19,21 @@
                 >White SS21 Collection that fits your imagination.</p>
               </div>
             </div>
+
+
+             <section id="loginform">
+      <div class="justify-content-center">
+        <div class="row justify-content-center">
+          <div class="col-md-6">
+            <form>
+              <img class="mt-4 mb-4" src="Images/Haley.jpg" height="720" alt="Login Background" />
+              <h1 class="h3 mb-3">Please Sign In</h1>
+              <label for="yourEmail" class="sr-only">E-mail</label>
+              <input type="email" id="yourEmail" class="form-control" placeholder="name@domain.com" required autofocus />
+              <label for="Password" class="sr-only">Password</label>
+              <input type="password" id="password" placeholder="Password must be 8 characters" class="form-control" />
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
